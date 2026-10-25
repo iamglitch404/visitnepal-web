@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Kathmandu",
+    "image_url": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Pokhara",
+    "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Lumbini",
+    "image_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Chitwan",
+    "image_url": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Mustang",
+    "image_url": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=800&q=80"
+  }
+]
